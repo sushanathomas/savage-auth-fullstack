@@ -6,7 +6,7 @@ I built this project to practice authentication, sessions, and CRUD functionalit
 
 ## Live Application
 
-<!-- Add the Render website link after deployment. -->
+Render: https://savage-auth-fullstack.onrender.com
 
 ## Screenshot
 
