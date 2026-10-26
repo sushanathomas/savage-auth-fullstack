@@ -5,9 +5,9 @@
 body {
   margin: 0;
   padding: 40px 16px;
-  background: #121826;
+  background: #384c7c;
   color: #edf2f7;
-  font-family: Arial, sans-serif;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
   line-height: 1.6;
   overflow-wrap: break-word;
 }
@@ -18,10 +18,13 @@ body {
   margin: 0 auto;
 }
 
+
 h1,
 h2,
 h3 {
   line-height: 1.2;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 a {
@@ -54,6 +57,7 @@ input,
   border: 1px solid #64748b;
   border-radius: 6px;
   font: inherit;
+  
 }
 
 form input {
@@ -135,19 +139,6 @@ img {
 @media (max-width: 600px) {
   body {
     padding: 24px 12px;
-  }
-
-  .jumbotron,
-  .well {
-    padding: 18px;
-  }
-
-  h1 {
-    font-size: 2rem;
-  }
-
-  form input,
-  form button {
-    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 }
