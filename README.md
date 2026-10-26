@@ -10,8 +10,8 @@ I built this project to practice authentication, sessions, and CRUD functionalit
 
 ## Screenshot
 
-<img width="400" height="400" alt="savsav" src="https://github.com/user-attachments/assets/829b301c-17ee-45b9-9d1a-46ff560ab5ea" />
-<img width="400" height="400" alt="savsav1" src="https://github.com/user-attachments/assets/fd966391-843f-4df2-bc0c-7809dc90f14a" />
+<img width="300" height="300" alt="savsav" src="https://github.com/user-attachments/assets/829b301c-17ee-45b9-9d1a-46ff560ab5ea" />
+<img width="300" height="300" alt="savsav1" src="https://github.com/user-attachments/assets/fd966391-843f-4df2-bc0c-7809dc90f14a" />
 
 
 ## Features
